@@ -1,0 +1,5 @@
+{
+  "name": "ScholarPolish AI",
+  "description": "一款先进的学术论文润色工具，具备降低 AI 检测率的功能。支持中文和英文。",
+  "requestFramePermissions": []
+}
